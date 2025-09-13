@@ -1,40 +1,97 @@
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" alt="header" />
+</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Yasiru Nisal </h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#ff006e;">Yasiru Nisal</span></h1>
 
-<p align="center" width="150px"> Here's a bio tailored for you:
+<p align="center">
+  🌱 Passionate about coding, problem-solving, and building creative tech solutions.<br>
+  🎓 Currently pursuing a degree in <b>Computer Science</b>.<br>
+  💡 Exploring <b>Full-Stack Development, MERN Stack, and Cloud Technologies</b>.
+</p>
 
 ---
 
-I’m currently pursuing a degree in Computer Science and am actively working on expanding my knowledge and skills in software development. I am involved in various innovative projects and excited about the opportunities ahead as I continue my journey in technology and engineering.</p>
+## 🚀 About Me  
+- 🔭 Currently working on **MERN stack & full-stack web apps**  
+- 🌱 Learning and experimenting with **Next.js, TypeScript, Docker & Cloud**  
+- 👯 Open to collaborate on **open-source, startups, and innovative ideas**  
+- ⚡ Fun fact: I love building apps that **scale globally** 🌍  
 
-### 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats & Streak  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirunk9612&show_icons=true&theme=radical" alt="yasiru's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirunk9612&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirunk9612&show_icons=true&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirunk9612&theme=radical&hide_border=true" height="180px"/>
 </p>
 
-### 🛠 &nbsp;Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirunk9612&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+---
 
-### :link: &nbsp;Connect with me
+## 🛠 Tech Stack  
 
-<a href="https://linkedin.com/in/yasiru-nisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasiru-nisal" height="30" width="40" /></a>
-<a href="https://fb.com/yasiru.nisal.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasiru.nisal.98" height="30" width="40" /></a>
-<a href="https://instagram.com/yasiru_nisal__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasiru_nisal__" height="30" width="40" /></a>
-<a href="https://discord.gg/yasirunk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yasirunk" height="30" width="40" /></a>
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,bootstrap,figma" />
+</p>
 
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,py,cpp,c" />
+</p>
 
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode" />
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasirunk9612&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+---
+
+## 💻 Past Works & Projects  
+
+🚧 *(Showcasing projects from your GitHub — update with real links!)*  
+
+- 📱 **Portfolio Website** – Personal portfolio built with Next.js & Tailwind  
+- 🛒 **E-Commerce Platform** – MERN stack project with JWT auth & Stripe payments  
+- 💬 **Chat App** – Real-time chat app using Socket.io, Express, and MongoDB  
+- 📊 **Dashboard Analytics** – Full-stack admin panel with React + Node.js  
+- 🎮 **Mini Games Collection** – JavaScript-based fun games hosted on GitHub Pages  
+
+👉 Check out more of my work here: [**My GitHub Repositories**](https://github.com/yasirunk9612?tab=repositories)  
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/yasiru-nisal"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://fb.com/yasiru.nisal.98"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
+  <a href="https://instagram.com/yasiru_nisal__"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+  <a href="https://discord.gg/yasirunk"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
+</p>
+
+---
+
+## 🎉 Fun Extras  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Cloud+%26+DevOps+Explorer;Always+Learning+%26+Building" />
+</p>
+
+---
+
+✨ *Let’s connect and build the future together!* 🚀  
